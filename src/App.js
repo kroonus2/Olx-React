@@ -40,4 +40,4 @@ const mapDispatchToProps = (dispatch) => {
 
 export default connect(mapStateToProps, mapDispatchToProps)(Page);
 
-//Parei aula 17
+//Parei aula 20
